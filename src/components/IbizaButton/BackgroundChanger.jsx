@@ -64,7 +64,7 @@ Double Chances: 500,000+ Tokens</p>
                    
                     <br/>
                     
-                   <p >   Lottery Wallet:</p>
+                   <p style={{fontSize:"25px"}}>   Lottery Wallet : <a href='https://etherscan.io/address/0x41a166032a76fe06dfdef02cbb451b6746587502'>ETHSCAN</a></p>
                     <br/>
                     
                  
