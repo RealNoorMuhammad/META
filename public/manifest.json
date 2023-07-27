@@ -1,0 +1,25 @@
+{
+  "short_name": "Ibiza Token  -  The Ibiza Web3 ecosystem",
+  "name": "Ibiza Token - The Ibiza Web3 ecosystem consists of a range of innovative solutions designed to connect local businesses, content creators, and tourists and to incentivize the adoption of blockchain technology on the island.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,260 @@
+*{
+  font-family: 'Poppins', sans-serif !important;
+}
+
+body{
+  background-color: #0086d4 !important;
+}
+.bgnav{
+  background-color: #0086d4 !important;
+}
+.backofmain {
+  position: relative;
+  background-image: url('./main.png');
+  height: 100%;
+  color: white; /* Set the color of the text (white, in this case) */
+}
+
+.backofmain::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(152, 152, 255, 0.1); /* Semi-transparent blue overlay color */
+  mix-blend-mode: multiply; /* You can choose the blend mode that suits your design */
+  pointer-events: none; /* This ensures that the overlay won't interfere with mouse events */
+  border-radius: 10px; /* Adjust the value to control the amount of glassy effect */
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.2); /* Play around with the values to adjust the shadow effect */
+}
+
+
+
+
+
+.Navbars_tab {
+  background-color: rgb(0, 122, 179) !important;
+  color: #ffffff !important;
+  border: 2px solid #f6bd00 !important;
+  border-radius: 10px !important;
+  text-align: center !important;
+  font-weight: 600 !important;
+}
+
+.Navbars_tab:hover {
+  background-color: #f6bd00  !important;
+  color: #ffffff !important;
+  border-radius: 10px !important;
+}
+
+
+
+
+
+.backabout{
+  box-shadow: 0 0 140px 10px rgba(0, 0, 0, 0.786) inset;
+  -webkit-border-radius: 24px;
+  -moz-border-radius: 24px;
+  border-radius: 24px;
+  background-clip: padding-box;
+  padding: 20px 10px 10px;
+  margin: 0 20px 30px;
+  position: relative;
+  z-index: 20;
+
+  background-color: #0000009c;
+  padding: 10px ;
+  border-radius: 10px;
+  text-align: center;
+}
+
+
+
+
+
+.head_h{
+  font-size: 40px;
+  font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
+
+.promoBox {
+  background: #0f4380;
+  background: -moz-linear-gradient(top,#0086d4 0,#0f4380 100%);
+  background: -webkit-linear-gradient(top,#0086d4 0,#0f4380 100%);
+  background: linear-gradient(to bottom,#0086d4 0,#0f4380 100%);
+
+  font-size: 3rem;
+  padding: 40px;
+  text-align: center;
+  line-height: 1.2em;
+  margin-bottom: 30px;
+  width: 100%;
+}
+
+
+.probox{
+  background: #ffe600 !important;
+
+  padding: 5px !important;
+
+
+}
+
+
+
+.tok_head{
+  color: #FFFF00 !important;
+  font-size: 45px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.slider-nav-item{
+  background-color: #00000021 !important;
+  border-radius: 10px;
+ 
+}
+
+
+
+
+  
+
+    
+    
+    
+
+.share{
+  width: 140px;
+}
+
+
+@media screen and (max-width: 650px)
+{.app__navbar-logo img {
+  width: 170px;
+  position: relative;
+  left: 0px;
+  top: 76px;
+}}
+.top_logo{
+  width: 300px;
+}
+
+
+@media screen and (max-width: 650px)
+{.top_logo{
+  width: 70%;
+}}
+.top_center_logo{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+
+.donep{
+  color: #fff !important;
+}
+
+.donept{
+  color: #ffe203 !important;
+}
+
+.toks_head{
+  color: #ffee00 !important;
+  font-size: 95px;
+  font-weight: 900;
+}
+
+
+
+
+@media screen and (max-width: 650px)
+{
+  
+  
+
+  .toks_head{
+    color: #ffee00 !important;
+    font-size: 55px;
+    font-weight: 900;
+  }
+  
+  
+  
+  
+
+
+}
+
+.tok_heada{
+  color: #ffee00 !important;
+  font-size: 40px;
+  font-weight: 800;
+}
