@@ -1,6 +1,5 @@
 import React, { useState } from "react";
-import useDarkMode from "./components/use-dark-mode";
-import cx from "classnames";
+
 import "./App.css";
 import { Helmet } from "react-helmet";
 import "./style.scss";

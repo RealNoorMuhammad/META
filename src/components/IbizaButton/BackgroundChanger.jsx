@@ -55,7 +55,7 @@ function MainPage() {
      </h2>
                    <br/><br/>
                  
-                   <p >$POWERBULL: The ultimate utility token, taxing 4% to fund every 6 hour lottery rewards for holders.<br/> <br/>
+                   <p >$META: The ultimate utility token, taxing 4% to fund every 6 hour lottery rewards for holders.<br/> <br/>
 Eligibility: 5,000 Tokens <br/> <br/>
 Double Chances: 500,000+ Tokens</p>
                     <br/>
@@ -102,16 +102,7 @@ Double Chances: 500,000+ Tokens</p>
 <p className='donep'> 
 
  <br/><br/>
-
- Welcome to Meta Millions, the first ever memecoin lottery, packed with the ultimate utility you won't find anywhere else. No complicated steps or special requirements! Buy $META tokens and hold. Seriously, thats it. You'll be automatically entered into the lottery that gets drawn every 6 hours.
- <br/><br/>
- No complicated rules, no hidden tricks - just pure and simple jackpot joy.
- <br/><br/>
- With Meta Millions, every participant has a chance to win, and each lottery presents fresh opportunities to take home some serious winnings.
- <br/><br/>
- Our advanced system employs cutting-edge blockchain technology to ensure the utmost security, fairness, and transparency. Through our smart contract, every draw is verifiable, assuring you of a trustworthy experience.
- <br/><br/>
- So, what are you waiting for? Hold your $META tokens and let the fun begin!
+ Welcome to Meta Millions, a memecoin lottery packed with the ultimate utility. No complicated steps or special requirements! Buy $META tokens and hold. <br/><br/> Seriously, thats it. You'll be automatically entered into the lottery that gets drawn every 6 hours.  No complicated rules, no hidden tricks - just pure and simple jackpot joy. <br/><br/> With Meta Millions, every participant has a chance to win, and each lottery presents fresh opportunities to take home some serious winnings.  Our advanced system employs cutting-edge blockchain technology to ensure the utmost security, fairness, and transparency. <br/><br/>Through our smart contract, every draw is verifiable, assuring you of a trustworthy experience.  So, what are you waiting for? Hold your $META tokens and let the fun begin!
  
 <br/><br/>
 
@@ -135,16 +126,18 @@ Double Chances: 500,000+ Tokens</p>
 
 
 <hr className="probox"></hr>
-<p className='donep'> In this token ecosystem, there is a 4% tax on buys and sales, tax is thoughtfully designed to contribute to both the holders and the overall development of the project. The tax structure is strategically divided to ensure a fair distribution of benefits. Here's how it works: <br/><br/>
+<p className='donep'>
+In this token ecosystem, there is a 4% tax on buys and sales, tax is thoughtfully designed to contribute to both the holders and the overall development of the project. The tax structure is strategically divided to ensure a fair distribution of benefits. Here's how it works:   <br/><br/>
 
 <ul>
-  <li>4% Lottery Wallet: Out of the total 4% tax, 2% from both buys and sales is allocated to a dedicated Lottery Wallet. This wallet serves as a mechanism for airdrops to token holders. Every 6 hours, the funds accumulated in the Lottery Wallet are distributed among eligible holders, rewarding their loyalty and incentivizing continued participation within the community.</li>
+  <li> 4% Lottery Wallet: Out of the total 4% tax, 1% from both buys and sells is allocated to a dedicated Lottery Wallet. This wallet serves as a mechanism for airdrops to token holders. Every 6 hours, the funds accumulated in the Lottery Wallet are distributed among eligible holders, rewarding their loyalty and incentivizing continued participation within the community.</li>
   <br/><br/>
-  <li>1% Dev/Marketing Wallet: The remaining 1% of each transaction is directed towards a dedicated Dev and Marketing Wallet. This allocation is crucial for supporting the ongoing development of the project, as well as facilitating strategic marketing initiatives. The funds in this wallet are utilized to fund development efforts, ensure the token's growth, and drive marketing campaigns to expand its reach to new audiences.</li>
+  <li>1% Dev/Marketing Wallet: The remaining 1% of each transaction is directed towards a dedicated Dev and Marketing Wallet. This allocation is crucial for supporting the ongoing development of the project, as well as facilitating strategic marketing initiatives. The funds in this wallet are utilized to fund development efforts, ensure the token's growth, and drive marketing campaigns to expand its reach to new audiences.
+  With a total supply of 100,000,000 tokens, this well-balanced tax distribution ensures that the token's ecosystem remains dynamic and engaging, while simultaneously contributing to its overall success. The combination of buy and sell taxes promotes responsible trading behavior, and the allocation of funds to the Lottery Wallet and the Dev and Marketing Wallet empowers both holders and developers, fostering a thriving and sustainable token community.</li>
 </ul>
 <br/><br/>
 
-With a total supply of 100,000,000 tokens, this well-balanced tax distribution ensures that the token's ecosystem remains dynamic and engaging, while simultaneously contributing to its overall success. The combination of buy and sell taxes promotes responsible trading behavior, and the allocation of funds to the Lottery Wallet and the Dev and Marketing Wallet empowers both holders and developers, fostering a thriving and sustainable token community.
+
 </p>
 </div>
       
