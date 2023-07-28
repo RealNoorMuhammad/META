@@ -4,7 +4,7 @@ const Timer = () => {
   const calculateTimeRemaining = () => {
     const now = new Date();
     const targetTime = new Date(now);
-    targetTime.setHours(now.getHours() + 3, 0, 0, 0); // Set target time to 4 hours from now
+    targetTime.setHours(now.getHours() + 0, 0, 0, 0); // Set target time to 4 hours from now
 
     const timeDiff = targetTime.getTime() - now.getTime();
     const secondsRemaining = Math.max(0, Math.floor(timeDiff / 1000));
